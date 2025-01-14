@@ -1,0 +1,9 @@
+/frontend/personal-portfolio/node_modules
+/backend/venv
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+
+
